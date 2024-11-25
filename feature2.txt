@@ -1,0 +1,2 @@
+Hello from feature-2!
+More content in feature2.txt
