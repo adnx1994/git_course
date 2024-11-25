@@ -36,3 +36,7 @@ symbol_data=yahoo_symbol(symbol=symbol_analyze)
 symbol_data
 
 print(symbol_data)
+
+
+
+symbol_data.plot()
