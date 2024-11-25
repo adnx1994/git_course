@@ -17,7 +17,7 @@ last_day=last_day.date()
 last_day=str(last_day)
 last_day
 
-
+print(last_day)
 
 
 
@@ -34,3 +34,5 @@ def yahoo_symbol(symbol="BTC-USD",timeframe='1d'):
 
 symbol_data=yahoo_symbol(symbol=symbol_analyze)
 symbol_data
+
+print(symbol_data)
